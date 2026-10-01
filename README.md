@@ -85,6 +85,8 @@ on my social platforms!
     <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Dazzling-BeanSoup&bg_color=00000000&color=857DFC&line=857DFC&point=857DFC&area=true&hide_border=true" alt="activity graph" />
   </p>
 
+  <p>...a sure lot of nothing.</p>
+
 </div>
 
 ---
