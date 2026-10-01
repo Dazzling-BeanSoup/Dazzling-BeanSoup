@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=40&pause=1000&color=857DFC&center=true&vCenter=true&width=500&height=67&lines=Welcome+to+my+GitHub!;Geotryx+Nauzelle;Art+%2B+Code+%2B+IDK(?)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=40&pause=1000&color=857DFC&center=true&vCenter=true&width=500&height=67&lines=Welcome+to+my+GitHub!;Dazzling-BeanSoup;Art+%2B+Code+%2B+IDK(?)" />
 </h1>
 
 ---
